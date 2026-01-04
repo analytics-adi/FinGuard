@@ -33,8 +33,6 @@ The Streamlit app allows users to:
 - Instantly receive a fraud prediction  
 - Interpret results through clear success and warning messages  
 
-📌 *Add a screenshot or GIF of the Streamlit app here*
+![Streamlit App](Final_app_imp.png)
 
 ---
-pip install -r requirements.txt
-streamlit run app.py
